@@ -43,7 +43,7 @@ A Discord bot that allows users to follow specific Twitter accounts and receive 
 Run the bot using the following command:
 
 ```bash
-node index.js
+node twitter_stream.js
 ```
 
 ### Discord Commands
