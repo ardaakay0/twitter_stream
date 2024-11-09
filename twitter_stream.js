@@ -33,7 +33,7 @@ client.once('ready', async () => {
 
   // Launch the browser at bot startup
   browser = await puppeteer.launch({
-    headless: false, // Run in non-headless mode to see what's happening
+    headless: true, // Run in non-headless mode to see what's happening
     defaultViewport: null,
     args: ['--start-maximized'],
   });
