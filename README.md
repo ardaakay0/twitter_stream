@@ -1,5 +1,5 @@
 
-# Discord Twitter Bot
+# Twitter Stream
 
 A Discord bot that allows users to follow specific Twitter accounts and receive live updates in a Discord channel. The bot interacts with Twitter using Puppeteer and provides commands for following and unfollowing users, displaying followed users, and cleaning messages.
 
